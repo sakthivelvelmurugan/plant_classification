@@ -21,8 +21,8 @@ A deep learning model that achieves **100% validation accuracy** in classifying 
 ### Visualizations
 <table>
 <tr>
-<td><img src="confusion_matrix.png" width="350" alt="Confusion Matrix"/></td>
-<td><img src="training_results.png" width="350" alt="Training Curves"/></td>
+<td><img src="matrix.png" width="350" alt="Confusion Matrix"/></td>
+<td><img src="train-results.png" width="350" alt="Training Curves"/></td>
 </tr>
 </table>
 
